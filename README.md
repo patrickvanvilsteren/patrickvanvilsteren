@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## Introduction
+
+My name is Patrick and I am an Technical Service Engineer at PAX8.
+My purpose is to become an Cloud Engineer, at least that's my goal at the moment.
+I think it's important to set goals for yourself, but also to be flexible to adjust when nescessary.
+
+My linkedin page is
+[Patrick 's LinkedIn page](https://www.linkedin.com/in/pvanvilsteren/)
+
 <!--
 **patrickvanvilsteren/patrickvanvilsteren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
